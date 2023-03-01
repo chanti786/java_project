@@ -1,0 +1,9 @@
+[07-Jan-2023 12:31:32 UTC] PHP Notice:  Undefined index: name in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 6
+[07-Jan-2023 12:31:32 UTC] PHP Notice:  Undefined index: email in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 7
+[07-Jan-2023 12:31:32 UTC] PHP Notice:  Undefined index: comment in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 8
+[07-Jan-2023 12:31:32 UTC] PHP Notice:  Undefined variable: errors in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 15
+[07-Jan-2023 12:31:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 15
+[07-Jan-2023 12:31:49 UTC] PHP Notice:  Undefined index: name in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 6
+[07-Jan-2023 12:31:49 UTC] PHP Notice:  Undefined index: email in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 7
+[07-Jan-2023 12:31:49 UTC] PHP Notice:  Undefined index: comment in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 8
+[07-Jan-2023 12:31:49 UTC] PHP Notice:  Undefined variable: errors in /home/b4rh01bjm872/public_html/andyfashionhub.com/contact.php on line 20
